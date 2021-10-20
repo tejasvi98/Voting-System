@@ -13,6 +13,7 @@ import java.awt.*;
 
 class HomePage extends JPanel implements ActionListener {
 //object and variable declaration
+// home page of application
 	private JFrame frame;
 	private JPanel mPanel,cPanel;
 	private MyPanel nPanel;
