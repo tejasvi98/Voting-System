@@ -10,6 +10,7 @@ import java.sql.*;
 
 import javax.swing.*;
 
+//this class implements actionlistener interface and is basically logic and ui code for login form
 class LoginForm implements ActionListener{
 	//variable declaration
 	private static JFrame frame;
